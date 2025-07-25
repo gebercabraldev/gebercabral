@@ -11,13 +11,13 @@ Sou desenvolvedor de software com mais de **10 anos de experiência**, especiali
 
 ### 🚀 Áreas de Especialidade
 
-- 🧩 Backend com **Java + Spring Boot**
-- 🔗 Integração de sistemas via **APIs REST/SOAP** e arquitetura de **microsserviços**
-- 🎨 Frontend com **Angular**, HTML, CSS e TypeScript
-- 🐳 **DevOps** com Docker, Jenkins, Git, GitHub Actions
-- 🧪 Testes com JUnit, Mockito, Jasmine, Karma
-- 🗃️ Banco de dados **Oracle, PostgreSQL, SQL Server**
-- ☁️ Experiência com **AWS (EC2, S3, RDS)** e **cultura ágil (Scrum)**
+- Desenvolvimento backend com **Java + Spring Boot**  
+- APIs REST/SOAP e arquitetura de **microsserviços**  
+- Frontend com **Angular**, HTML, CSS e TypeScript  
+- **DevOps**: Docker, Jenkins, Git, CI/CD  
+- Testes automatizados com JUnit, Mockito, Jasmine e Karma  
+- Bancos de dados **Oracle, PostgreSQL e SQL Server**  
+- Experiência em **AWS** e cultura ágil (Scrum)
 
 ---
 
@@ -42,8 +42,7 @@ Sou desenvolvedor de software com mais de **10 anos de experiência**, especiali
 - 🌐 **Sistema Full Stack com Angular + Java**  
   APIs REST integradas a um frontend Angular para gerenciamento de dados empresariais.
 
-- ☁️ **Soluções Rails em nuvem AWS**  
-  APIs escaláveis com deploy automatizado em AWS EC2, RDS, S3 e CodePipeline.
+- ☁️ **Soluções Rails em nuvem AWS** – APIs escaláveis com deploy em EC2, armazenamento em S3 e bancos RDS, garantindo alta disponibilidade e performance.
 
 ---
 
