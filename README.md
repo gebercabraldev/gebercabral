@@ -44,9 +44,9 @@ Sou desenvolvedor de software com mais de **10 anos de experiência**, especiali
 
 ### 📂 Repositórios em Destaque
 - 📦 [Product Manager](https://github.com/gebercabraldev/product-manager) – Sistema para gestão de produtos com Spring Boot e Angular.
-- 📘 [Sistema de Autenticação Java + JWT](https://github.com/gebercabral/java-auth-jwt) – API de autenticação com Spring Security e JWT.
-- 📊 [Dashboard Angular + Spring Boot](https://github.com/gebercabral/angular-spring-dashboard) – Interface moderna com integração full stack.
-- ⚙️ [DevOps com Docker e Jenkins](https://github.com/gebercabral/devops-pipeline) – Pipeline de CI/CD com Docker, Jenkins e GitHub Actions.
+- EM BREVE📘 [Sistema de Autenticação Java + JWT](https://github.com/gebercabral/java-auth-jwt) – API de autenticação com Spring Security e JWT.
+- EM BREVE 📊 [Dashboard Angular + Spring Boot](https://github.com/gebercabral/angular-spring-dashboard) – Interface moderna com integração full stack.
+- EM BREVE ⚙️ [DevOps com Docker e Jenkins](https://github.com/gebercabral/devops-pipeline) – Pipeline de CI/CD com Docker, Jenkins e GitHub Actions.
 
 ### 💡 O que me motiva
 Gosto de criar soluções que resolvem problemas reais, com código limpo, testável e sustentável. Sou movido por desafios técnicos e aprendizado constante. Acredito que tecnologia bem aplicada gera impacto e transforma negócios.
