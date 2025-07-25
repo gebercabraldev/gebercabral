@@ -30,6 +30,18 @@ Sou desenvolvedor de software com mais de **10 anos de experiência**, especiali
 - 🌐 **Sistema Full Stack com Angular + Java** – Desenvolvimento de APIs REST e frontend Angular para gestão de dados empresariais.
 - ☁️ **Soluções Rails em nuvem AWS** – APIs escaláveis com deploy em serviços cloud.
 
+### 🕓 Linha do Tempo Profissional
+| Período | Empresa              | Cargo/Atuação                                |
+|---------|----------------------|----------------------------------------------|
+| 2023–2025 | Mirante Tecnologia   | Desenvolvedor Java – Banco SICOOB             |
+| 2021–2022 | SmartFit             | Desenvolvedor Ruby on Rails – AWS             |
+| 2020–2021 | Grupo ITSS           | Desenvolvedor Full Stack (Java + Angular)     |
+| 2019–2020 | Santri Sistemas      | Desenvolvedor Delphi                          |
+| 2018–2019 | C&S Sistemas         | Desenvolvedor Delphi                          |
+| 2017–2018 | Softwiki Tecnologia  | Desenvolvedor Delphi                          |
+| 2015–2016 | Otimize-TI           | Desenvolvedor Java – ERP industrial           |
+| 2013–2014 | Central IT / Nec     | Desenvolvedor Java / Delphi                   |
+
 ### 💡 O que me motiva
 Gosto de criar soluções que resolvem problemas reais, com código limpo, testável e sustentável. Sou movido por desafios técnicos e aprendizado constante. Acredito que tecnologia bem aplicada gera impacto e transforma negócios.
 
@@ -46,3 +58,4 @@ Gosto de criar soluções que resolvem problemas reais, com código limpo, test�
 
 ---
 _“Software bem feito é aquele que continua fácil de entender mesmo depois de anos.”_
+
