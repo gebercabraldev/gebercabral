@@ -43,6 +43,7 @@ Sou desenvolvedor de software com mais de **10 anos de experiência**, especiali
 | 2013–2014 | Central IT / Nec     | Desenvolvedor Java / Delphi                   |
 
 ### 📂 Repositórios em Destaque
+- 📦 [Product Manager](https://github.com/gebercabraldev/product-manager) – Sistema para gestão de produtos com Spring Boot e Angular.
 - 📘 [Sistema de Autenticação Java + JWT](https://github.com/gebercabral/java-auth-jwt) – API de autenticação com Spring Security e JWT.
 - 📊 [Dashboard Angular + Spring Boot](https://github.com/gebercabral/angular-spring-dashboard) – Interface moderna com integração full stack.
 - ⚙️ [DevOps com Docker e Jenkins](https://github.com/gebercabral/devops-pipeline) – Pipeline de CI/CD com Docker, Jenkins e GitHub Actions.
