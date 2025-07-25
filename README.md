@@ -48,7 +48,7 @@ Sou desenvolvedor de software com mais de **10 anos de experiência**, especiali
 
 ### 📂 Repositórios em Destaque
 
-- 📦 [Product Manager](https://github.com/gebercabraldev/product-manager) *(em andamento)* 
+- 📦 [Product Manager](https://github.com/gebercabraldev/product-manager) *(em andamento)*  
   Sistema full stack para gestão de produtos com Spring Boot + Angular.
 
 - 📘 [Sistema de Autenticação com Spring Security + JWT](https://github.com/gebercabral/java-auth-jwt) *(em breve)*  
