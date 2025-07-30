@@ -48,6 +48,10 @@ Sou desenvolvedor de software com mais de **10 anos de experiência**, especiali
 
 ### 📂 Repositórios em Destaque
 
+- 📊 [Sistema de Gestão de Recursos](https://github.com/gebercabral/sistema-gestao-recursos) *(completo)*  
+  API REST para gerenciamento de funcionários e departamentos com Spring Boot, filtros dinâmicos, ranking por salário, testes com JUnit/Mockito e deploy com Docker Compose.
+
+
 - 📦 [Product Manager](https://github.com/gebercabraldev/product-manager) *(em andamento)*  
   Sistema full stack para gestão de produtos com Spring Boot + Angular.
 
@@ -108,4 +112,3 @@ Acredito que tecnologia bem aplicada transforma negócios — e vidas.
 ---
 
 > _“Software bem feito é aquele que continua fácil de entender mesmo depois de anos.”_
-
